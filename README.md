@@ -2,6 +2,8 @@
 
 A universal code minifier that supports multiple programming languages. This tool finds all relevant source files in a directory, minifies them, and outputs them in a standardized format.
 
+Originally built to create a contiguous block of code from a project that could be used in graphical and art applications. **PRs are welcome**.
+
 ## Basic Usage
 
 ```bash
