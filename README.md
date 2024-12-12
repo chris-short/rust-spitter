@@ -4,6 +4,8 @@ A universal code minifier that supports multiple programming languages. This too
 
 Originally built to create a contiguous block of code from a project that could be used in graphical and art applications. **PRs are welcome**.
 
+**CAUTION**: This is for display purposes only. This tool will not produce functioning code due to the fact it removes spaces, line breaks, etc. entirely.
+
 ## Basic Usage
 
 ```bash
