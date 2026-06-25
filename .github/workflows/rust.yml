@@ -115,7 +115,7 @@ jobs:
 
       - name: Install cross
         if: matrix.use_cross == true
-        run: cargo install cross
+        run: which cross || cargo install cross
 
       - name: Build release binary
         shell: bash
